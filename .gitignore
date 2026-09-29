@@ -1,0 +1,15 @@
+*
+!index.html
+!robots.txt
+!sitemap.xml
+!llms.txt
+!.nojekyll
+!.gitignore
+!image/
+image/*
+!image/barn.jpg
+!image/calf.jpg
+!image/cows.jpg
+!image/hero.jpg
+!image/recruit.jpg
+!image/tractor.jpg
